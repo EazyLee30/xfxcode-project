@@ -1,10 +1,10 @@
-# XFXCode Downloads
+# XFXCode Project
 
-XFXCode 公开下载仓库。这里只发布下载说明、Release notes、安装包和校验值，不包含 XFXCode 源码。
+XFXCode Project 是 XFXCode 的公开下载与发布说明仓库。这里只发布下载说明、Release notes、安装包和校验值，不包含 XFXCode 源码。
 
 Latest release:
 
-https://github.com/EazyLee30/xfxcode-downloads/releases/latest
+https://github.com/EazyLee30/xfxcode-project/releases/latest
 
 ## 下载
 
@@ -84,7 +84,7 @@ XFXCode 当前是闭源 / 专有软件。除非另有书面许可：
 
 ## English
 
-This repository is the public download repository for XFXCode. It contains download instructions, Release notes, binaries, and checksums only. It does not contain the XFXCode source code.
+This repository is the public XFXCode Project download and release-notes repository. It contains download instructions, Release notes, binaries, and checksums only. It does not contain the XFXCode source code.
 
 XFXCode is a lightweight desktop AI IDE for agentic coding workflows. It helps you open a project, ask an AI agent to inspect and edit files, review file changes, and keep tool execution visible through governance traces.
 

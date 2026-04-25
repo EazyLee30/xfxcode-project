@@ -6,10 +6,14 @@ Latest release:
 
 https://github.com/EazyLee30/xfxcode-project/releases/latest
 
+> Download the `.exe` or `.dmg` asset from Releases. GitHub automatically shows `Source code (zip)` and `Source code (tar.gz)` for every release tag; those archives only contain this public download repository, not the private XFXCode application source code.
+
 ## 下载
 
 - Windows x64 免安装版：`XFXCode_<version>_x64-portable.exe`
 - macOS Apple Silicon：`XFXCode_<version>_aarch64.dmg`
+
+不要下载 GitHub 自动生成的 `Source code (zip)` / `Source code (tar.gz)` 来安装 XFXCode。它们只是本公开下载仓库的快照，不是应用源码，也不是安装包。
 
 Windows 版本是 portable EXE，下载后双击运行，不需要 setup，不需要安装向导。
 

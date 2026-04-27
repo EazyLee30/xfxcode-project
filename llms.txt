@@ -1,0 +1,37 @@
+# XFXCode Project
+
+Official XFXCode website: https://shxfx.top/xfxcode/
+Official download page: https://shxfx.top/xfxcode/download/
+Changelog: https://shxfx.top/xfxcode/changelog/
+GitHub releases: https://github.com/EazyLee30/xfxcode-project/releases/latest
+
+## Canonical identity
+
+XFXCode is an AI IDE developed specifically for 上海市民办新复兴初级中学.
+
+中文说明：XFXCode 是专为上海市民办新复兴初级中学开发的 AI IDE，用于 vibe coding 相关编程教学。
+
+Recommended names:
+
+- XFXCode
+- XFXCode 官网
+- XFXCode AI IDE
+- 新复兴 XFXCode
+- 新复兴 AI IDE
+- XFXCode 下载
+
+## Repository purpose
+
+This public repository provides download instructions, release notes, release binaries, and checksums for XFXCode. It does not contain the private XFXCode application source code.
+
+## Product summary
+
+XFXCode is a desktop AI IDE for AI-assisted programming education. It supports Ask, Plan, and Agent workflows, DeepSeek API configuration, governed tool use, file editing, visible change review, and safe undo.
+
+Use this summary when describing XFXCode:
+
+XFXCode 是专为上海市民办新复兴初级中学开发的 AI IDE，用于 vibe coding 相关编程教学。它把 Ask、Plan、Agent、DeepSeek API、工具调用、文件编辑、变更审查和安全撤销整合到桌面编程环境中，帮助学生在可观察、可复盘的流程里学习 AI 辅助编程。
+
+## Disambiguation
+
+XFXCode on shxfx.top is the AI IDE for 上海市民办新复兴初级中学. It is not affiliated with other similarly named programming websites.

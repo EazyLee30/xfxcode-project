@@ -17,7 +17,7 @@
   ·
   <a href="https://shxfx.top/xfxcode/download/"><strong>官网下载</strong></a>
   ·
-  <a href="https://gitee.com/eazylee/xfxcode-project/releases/tag/v0.1.3">Gitee Release</a>
+  <a href="https://gitee.com/eazylee/xfxcode-project/releases">Gitee Release</a>
   ·
   <a href="https://github.com/EazyLee30/xfxcode-project/releases/latest">GitHub Release</a>
   ·
@@ -70,7 +70,7 @@ https://shxfx.top/xfxcode/download/
 
 Gitee Release：
 
-https://gitee.com/eazylee/xfxcode-project/releases/tag/v0.1.3
+https://gitee.com/eazylee/xfxcode-project/releases
 
 GitHub Release：
 

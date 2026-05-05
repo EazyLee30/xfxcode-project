@@ -30,7 +30,7 @@
 
 <p align="center">
   <img alt="Release" src="https://img.shields.io/github/v/release/EazyLee30/xfxcode-project?style=for-the-badge&label=release" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-Portable_EXE-1677ff?style=for-the-badge&logo=windows11&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-Single_EXE-1677ff?style=for-the-badge&logo=windows11&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/macOS-Apple_Silicon-111111?style=for-the-badge&logo=apple&logoColor=white" />
   <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek_V4-Agent_Harness-00A67E?style=for-the-badge" />
 </p>
@@ -78,7 +78,7 @@ https://github.com/EazyLee30/xfxcode-project/releases/latest
 
 | 平台 | 文件 | 说明 |
 | --- | --- | --- |
-| Windows x64 | `XFXCode_<version>_x64-portable.exe` | 免安装 portable EXE，下载后双击运行 |
+| Windows x64 | `XFXCode_<version>_x64-single.exe` | 单文件 EXE，下载后双击运行 |
 | macOS Apple Silicon | `XFXCode_<version>_aarch64.dmg` | 打开 DMG 后拖入 Applications |
 | 校验值 | `SHA256SUMS.txt` | 用于确认下载文件未损坏、未被替换 |
 
@@ -89,11 +89,11 @@ https://github.com/EazyLee30/xfxcode-project/releases/latest
 ### Windows
 
 1. 打开最新 Release。
-2. 下载 `XFXCode_<version>_x64-portable.exe`。
+2. 下载 `XFXCode_<version>_x64-single.exe`。
 3. 双击运行。
 4. 如果 Windows SmartScreen 提示未知发布者，请确认文件来自本仓库官方 Release 页面后，再选择“更多信息 / 仍要运行”。
 
-Windows 版本是 portable EXE，不需要 setup，不需要管理员安装，不进入安装向导。
+Windows 推荐使用 single EXE，不需要安装器，不需要管理员安装，不进入安装向导。
 
 ### macOS
 
@@ -238,7 +238,7 @@ shasum -a 256 XFXCode_<version>_aarch64.dmg
 Windows PowerShell:
 
 ```powershell
-Get-FileHash .\XFXCode_<version>_x64-portable.exe -Algorithm SHA256
+Get-FileHash .\XFXCode_<version>_x64-single.exe -Algorithm SHA256
 ```
 
 把输出和 Release 中的 `SHA256SUMS.txt` 对比即可。
@@ -268,7 +268,7 @@ This repository contains download instructions, Release notes, binaries, and che
 
 Available builds:
 
-- Windows x64 portable EXE: `XFXCode_<version>_x64-portable.exe`
+- Windows x64 single EXE: `XFXCode_<version>_x64-single.exe`
 - macOS Apple Silicon DMG: `XFXCode_<version>_aarch64.dmg`
 
 GitHub automatically adds `Source code (zip)` and `Source code (tar.gz)` to every release. Those archives are only snapshots of this public download repository. To install XFXCode, download the `.exe` or `.dmg` asset from the Release page.
